@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Devpulse Project<br>👯 I’m looking to collaborate on Any Web project<br>🌱 I’m currently learning Python <br>💬 Ask me about Javascript<br>⚡ Fun fact : Coffee kills more than Beer 
+🔭 I’m currently working on Devpulse Project<br>👯 I’m looking to collaborate on Any Web /Mobile project<br>🌱 I’m currently learning block-Chain <br>💬 Ask me about Javascript<br>⚡ Fun fact : Coffee kills more than Beer 
 
 
 ## 🌐 Socials:
