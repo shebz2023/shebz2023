@@ -8,7 +8,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-  I am a passionate Software Engineer with a love for technology and innovation. With experience in full-stack development, I enjoy creating solutions that solve real-world problems. I am always eager to learn new technologies and improve my skills,I am currently leanring developing d-apps. When I'm not coding, I’m often caught making blunders in chess:) Feel free to connect with me to discuss exciting projects or opportunities!
+  I am a passionate Software Engineer with a love for technology and innovation. With experience in full-stack development, I enjoy creating solutions that solve real-world problems. I am always eager to learn new technologies and improve my skills,I am currently learning developing d-apps. When I'm not coding, I’m often caught making blunders in chess:) Feel free to connect with me to discuss exciting projects or opportunities!
 </p>
 
 <h2>💻 Tech Stack</h2>
