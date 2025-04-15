@@ -25,7 +25,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=flat-square&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/Express-Advanced-000000?style=flat-square&logo=express)
 ![Django](https://img.shields.io/badge/Django-Intermediate-092E20?style=flat-square&logo=django)
-![Laravel](https://img.shields.io/badge/Laravel-Intermediate-FF2D20?style=flat-square&logo=laravel)
 ![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-E10098?style=flat-square&logo=graphql)
 
 #### Frontend & Mobile
