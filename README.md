@@ -33,6 +33,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-Advanced-61DAFB?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-Advanced-764ABC?style=flat-square&logo=redux)
 ![Tailwind](https://img.shields.io/badge/Tailwind-Advanced-06B6D4?style=flat-square&logo=tailwindcss)
+![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=flat-square&logo=next.js)
 
 #### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat-square&logo=postgresql)
